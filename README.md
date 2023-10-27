@@ -6,4 +6,4 @@ L'entreprise compte plus de 800 000 clients pour un projet Data. Récemment, l'e
 
 Ayant besoin d'améliorer ses résultats, elle souhaite pouvoir comprendre les principales raisons de ces annulations et quelles sont les actions les plus efficaces pour réduire ce nombre.
 
-Projet réalisé en portugais
+(Projet réalisé en portugais)
